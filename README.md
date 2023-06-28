@@ -24,7 +24,7 @@ Para el manejo de la base de datos con un usuario que tenga permisos de creació
 ## Instalación
 1. Abra la carpeta de la solución en la explorador de archivos
 2. Ubique el archivo DatabaseCreationScript.sql y ejecútelo en la máquina local, los objetos de la base de datos se crearán localmente (ConnectionString se configuran localmente)
-3. Navegue a la carpeta PruebaTecnica_talycapglobal y abra un símbolo del sistema en modo Administrador
+3. Navegue a la carpeta PruebaTecnica_F2X y abra un símbolo del sistema en modo Administrador
 4. Escriba dotnet run y espere a que se confirme la inicialización del API (se alojará en https://localhost:5001/swagger/index.html)
 
 # Como usar
